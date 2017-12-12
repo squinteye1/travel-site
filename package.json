@@ -27,6 +27,7 @@
     "gulp-svg2png": "2.0.2",
     "gulp-uglify": "3.0.0",
     "gulp-usemin": "0.3.28",
+    "gulp-util": "^3.0.8",
     "gulp-watch": "4.3.11",
     "postcss-hexrgba": "1.0.0",
     "postcss-import": "11.0.0",

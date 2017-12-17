@@ -1,11 +1,9 @@
-$mainBlue: #2f5572;
-
-
 body {
-    color: $mainBlue;
+    color: #2f5572;
     padding: 20px;
     margin: 10px;
-    columns: 300px 2;
+    -webkit-columns: 300px 2;
+            columns: 300px 2;
     border-radius: 5px;
     font-family: Arial;
 }
@@ -14,9 +12,7 @@ h1 {
     font-weight: bold;
 }
 
-.box {
-    a {
+.box a {
         display:block;
         padding: 10px;
     }
-}

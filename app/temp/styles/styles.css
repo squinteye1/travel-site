@@ -452,7 +452,7 @@ template {
 
 body {
     font-family: 'Roboto', san-serif;
-    font-weight: bold;
+    color: #333;
 }
 
 img { max-width: 100%;
@@ -471,7 +471,7 @@ img { max-width: 100%;
         left: 0;
         width: 100%;
         text-align: center;
-        margin: 0;
+       
     }
 
 .large-hero__title {
@@ -506,6 +506,7 @@ img { max-width: 100%;
         font-weight: 300;
         color: #2f5572;
         font-size: 1.1rem;
+        margin: 0;
 
 
     }
@@ -533,11 +534,11 @@ img { max-width: 100%;
     color: #fff;
     text-decoration: none;
     padding: 0.75rem 1.2rem;
-    display:inline;
+    display:inline-block;
 }
 
 .btn--orange {
-        background-color: #ff9000;
+        background-color: #d59541;
     }
 
 .btn--large {

@@ -1143,6 +1143,10 @@ padding: 1.2rem 0;
             line-height: 47px;
             background-color: transparent
     }
+
+            .primary-nav a.is-current-link {
+                color: #fabb69;
+            }
     }
 
 .section-title {
